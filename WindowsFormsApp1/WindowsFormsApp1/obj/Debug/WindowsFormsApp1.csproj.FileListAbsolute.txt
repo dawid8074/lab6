@@ -1,0 +1,10 @@
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\drive\semestr 4\2.grafika\rozwiązania\lab6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
