@@ -44,7 +44,6 @@ namespace WindowsFormsApp1
                     pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
 
                     Wczytane = pictureBox1.Image;
-                    //Wczytane = resizeImage(Wczytane, new Size(pictureBox1.Size.Width, pictureBox1.Size.Height));
                     BitmapWczytane = new Bitmap(Wczytane);
                     WczytaneSzerokosc = BitmapWczytane.Width;
                     WczytaneWysokosc = BitmapWczytane.Height;
