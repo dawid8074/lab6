@@ -67,19 +67,7 @@ namespace WindowsFormsApp1
             return (Image)(new Bitmap(imgToResize, size));
         }
         
-        /*
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            /*
-            tukan = pictureBox1.Image;
-            tukan = resizeImage(tukan, new Size(pictureBox1.Size.Width, pictureBox1.Size.Height));
-            bitmapTukan = new Bitmap(tukan);
-            tukanWidth = bitmapTukan.Width;
-            tukanHeight = bitmapTukan.Height;
-            
-
-        }
-    */
+      
         public int checkIfInRGB(int value)
         {
             if (value >= 255) return 254;
